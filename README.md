@@ -200,25 +200,6 @@ flowchart TD
     G -->|No| D
 ```
 
-## Event Handling
-1. Application Status Change:
-   - Update status
-   - Create activity record
-   - Send notification
-   - Update statistics
-
-2. Interview Scheduling:
-   - Validate date
-   - Update application
-   - Create calendar event
-   - Send confirmation
-
-3. Document Processing:
-   - Upload document
-   - Process content
-   - Store metadata
-   - Link to application
-
 ## Data Processing Flow
 1. Job Application:
    ```
